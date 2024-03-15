@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+    background-color:rgb(185, 196, 226);
+}
+legend{
+    
+    font-family: 'Open Sans', sans-serif;
+}
+fieldset{
+    border-color:blueviolet;
+    width:200px;
+    border-radius:5px;
+}
+.button{
+    width:240px;
+    background-repeat:rgb(203, 201, 201);
+    font-family: 'Open Sans', sans-serif;
+}
+textarea{
+    font-family: 'Open Sans', sans-serif;
+}
+input{
+    font-family: 'Open Sans', sans-serif;
+}
